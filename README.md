@@ -2,19 +2,11 @@
 
 > 通过这个软件，你可以将视频中的面部替换为你选择的任何面部。只需要提供一张目标面部的图片，无需数据集或训练。
 
-[![构建状态](https://img.shields.io/github/actions/workflow/status/s0md3v/roop/ci.yml.svg?branch=main)](https://github.com/s0md3v/roop/actions?query=workflow:ci)
-
-<img src="https://i.ibb.co/4RdPYwQ/Untitled.jpg"/>
-
 ## 安装
 
 请注意，安装过程需要一定的技术能力，适合有一定经验的用户，不适合初学者。请勿在GitHub上提交与平台或安装相关的问题。
 
-[基础版安装](https://github.com/s0md3v/roop/wiki/1.-Installation) - 安装后可能会运行较慢，但能在大多数计算机上运行。
-
-[加速版安装](https://github.com/s0md3v/roop/wiki/2.-Acceleration) - 发挥CPU和GPU的最大性能，提升运行速度。
-
-## MACOS下使用方法
+## 普通版MACOS下使用方法
 ```
 Python
 brew install python@3.10
